@@ -1,4 +1,4 @@
-# Git Center
+# GitCenter
 
 Rust(Tauri)製デスクトップ向けGithubクライアント（になる予定）
 
