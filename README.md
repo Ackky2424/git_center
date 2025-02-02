@@ -12,6 +12,15 @@ Tauri + React + Typescript
  
 - Github APIでできる範囲の機能
 
+## 依存関係
+
+| package | version |
+| - | - |
+| rustc | 1.84.1 |
+| tauri | 2.2.5 |
+| react | 18.3.1 |
+| yamada-ui | 1.7.4 |
+
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
