@@ -4,6 +4,12 @@ Rust(Tauri)製デスクトップ向けGithubクライアント（になる予定
 
 Tauri + React + Typescript
 
+## デバッグ
+```bash
+$ npm install
+$ npm run tauri dev
+```
+
 ## （とりあえず実装したい）機能
 
 - Issues
@@ -19,7 +25,7 @@ Tauri + React + Typescript
 | rustc | 1.84.1 |
 | tauri | 2.2.5 |
 | react | 18.3.1 |
-| yamada-ui | 1.7.4 |
+| @yamada-ui/react | 1.7.4 |
 
 ## Recommended IDE Setup
 
