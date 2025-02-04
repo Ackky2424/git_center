@@ -14,7 +14,7 @@ Tauri + React + Typescript
 
 ## 依存関係
 
-| package | version |
+| name | version |
 | - | - |
 | rustc | 1.84.1 |
 | tauri | 2.2.5 |
